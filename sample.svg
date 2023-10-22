@@ -1,7 +1,5 @@
-<svg
-      xmlns="http://www.w3.org/2000/svg"
-      width="fit-content"
-      height="fit-content">
+<svg height="280"
+      xmlns="http://www.w3.org/2000/svg">
       <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink">
           <section class="column">
@@ -13,31 +11,31 @@
               </div><div class="entry">
                 <span class="name">CSS</span>
                 <div class="bar" style="width: 21.71153938957888%"></div>
-                <span class="value">21.71%</span>
+                <span class="value">21.7%</span>
               </div><div class="entry">
                 <span class="name">HTML</span>
                 <div class="bar" style="width: 3.4515510592653365%"></div>
-                <span class="value">3.45%</span>
+                <span class="value">3.5%</span>
               </div><div class="entry">
                 <span class="name">Java</span>
                 <div class="bar" style="width: 4.845771493500512%"></div>
-                <span class="value">4.85%</span>
+                <span class="value">4.8%</span>
               </div><div class="entry">
                 <span class="name">Shell</span>
                 <div class="bar" style="width: 0.6653037408803155%"></div>
-                <span class="value">0.67%</span>
+                <span class="value">0.7%</span>
               </div><div class="entry">
                 <span class="name">PHP</span>
                 <div class="bar" style="width: 17.656762056848045%"></div>
-                <span class="value">17.66%</span>
+                <span class="value">17.7%</span>
               </div><div class="entry">
                 <span class="name">Blade</span>
                 <div class="bar" style="width: 0.17921304197138732%"></div>
-                <span class="value">0.18%</span>
+                <span class="value">0.2%</span>
               </div><div class="entry">
                 <span class="name">TypeScript</span>
                 <div class="bar" style="width: 1.590543166872129%"></div>
-                <span class="value">1.59%</span>
+                <span class="value">1.6%</span>
               </div></div>
           </section>
         </div>
