@@ -1,2 +1,3 @@
-# Hi Here are my stats and what i do 📗
-<img src="sample.svg" alt="" style="height: 100vh" />
+> Hi Here are my stats and what i do 👀
+ 
+![stats](https://github.com/rithik-sandron/GitHub-actions-test/blob/main/.github/workflows/sample.svg)
