@@ -1,0 +1,26 @@
+on: push
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout
+        uses: actions/checkout@v4
+
+      - name: Checkout readme repo
+        uses: actions/checkout@v4
+        with:
+          repository: rithik-sandron/GitHub-actions-test
+          path: ./GitHub-actions-test
+          token: ${{ secrets.R_TOKEN }}
+
+      - name: commit files  
+        run: |
+          python ./GitHub-actions-test/.github/workflows/wk_run.py
+          cp -R ./GitHub-actions-test/sample.svg .
+          git add -A .
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git commit -m "generated"
+          git push --set-upstream origin main
