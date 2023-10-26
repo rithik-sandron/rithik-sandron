@@ -15,7 +15,9 @@ jobs:
           path: ./GitHub-actions-test
           token: ${{ secrets.R_TOKEN }}
 
-      - name: commit files  
+      - name: commit files
+        env:
+          R_TOKEN: ${{ secrets.R_TOKEN }}
         run: |
           python ./GitHub-actions-test/.github/workflows/wk_run.py
           cp -R ./GitHub-actions-test/sample.svg .
