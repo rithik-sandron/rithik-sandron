@@ -6,43 +6,43 @@
               <h3>Language activity</h3>
               <div class="chart"><div class="entry">
                   <span class="name">JavaScript</span>
-                  <div class="bar" style="width: 48.18175245806825%"></div>
-                  <span class="value">48.2%</span>
+                  <div class="bar" style="width: 48.27228454685283%"></div>
+                  <span class="value">48.3%</span>
                 </div><div class="entry">
                   <span class="name">CSS</span>
-                  <div class="bar" style="width: 20.961410880141532%"></div>
-                  <span class="value">21.0%</span>
+                  <div class="bar" style="width: 21.13650017255851%"></div>
+                  <span class="value">21.1%</span>
                 </div><div class="entry">
                   <span class="name">HTML</span>
-                  <div class="bar" style="width: 4.757935562889124%"></div>
+                  <div class="bar" style="width: 4.766875583183854%"></div>
                   <span class="value">4.8%</span>
                 </div><div class="entry">
                   <span class="name">Java</span>
-                  <div class="bar" style="width: 4.697334399346783%"></div>
+                  <div class="bar" style="width: 4.706160551846375%"></div>
                   <span class="value">4.7%</span>
                 </div><div class="entry">
                   <span class="name">Shell</span>
-                  <div class="bar" style="width: 0.644923961487429%"></div>
+                  <div class="bar" style="width: 0.6461357545493667%"></div>
                   <span class="value">0.6%</span>
                 </div><div class="entry">
                   <span class="name">Python</span>
-                  <div class="bar" style="width: 0.6593831864729697%"></div>
+                  <div class="bar" style="width: 0.6606221479912912%"></div>
                   <span class="value">0.7%</span>
                 </div><div class="entry">
                   <span class="name">PHP</span>
-                  <div class="bar" style="width: 18.073818596264417%"></div>
-                  <span class="value">18.1%</span>
+                  <div class="bar" style="width: 17.61779781255459%"></div>
+                  <span class="value">17.6%</span>
                 </div><div class="entry">
                   <span class="name">Blade</span>
-                  <div class="bar" style="width: 0.3051321743272208%"></div>
-                  <span class="value">0.3%</span>
+                  <div class="bar" style="width: 0.47208599804859763%"></div>
+                  <span class="value">0.5%</span>
                 </div><div class="entry">
                   <span class="name">Ruby</span>
-                  <div class="bar" style="width: 0.1764875990882183%"></div>
+                  <div class="bar" style="width: 0.17681921407054874%"></div>
                   <span class="value">0.2%</span>
                 </div><div class="entry">
                   <span class="name">TypeScript</span>
-                  <div class="bar" style="width: 1.5418211819140613%"></div>
+                  <div class="bar" style="width: 1.5447182183440349%"></div>
                   <span class="value">1.5%</span>
                 </div></div>
             </section>
