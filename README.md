@@ -1,5 +1,5 @@
 
-### 👋 Hi, I’m Rithik, a fullstack developer,
+### 👋 Hi, I’m Rithik, a fullstack developer
 >> Curious & self driven 
 - 🌱 Currently pursuing my masters in `Advanced Computer Science` @ `Swansea University` [mostly Embedded Systems, architectures, optimizations, patterns..]
 - 👀 Interested in Tech, Anime, Games
