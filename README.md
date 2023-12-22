@@ -6,6 +6,7 @@
 - 🚀 I’m looking to contribute to open source
 - 📫 reach me @ rithik.ryuu@outlook.com
 - 💭 Checkout my blog : https://zro.earth
+- 👨‍💻 My gists: https://gist.github.com/rithik-sandron
 <br />
 
 ![stats](sample.svg) 
