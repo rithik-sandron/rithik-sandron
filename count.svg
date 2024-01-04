@@ -1,0 +1,42 @@
+<svg height="340"
+        xmlns="http://www.w3.org/2000/svg">
+        <foreignObject x="0" y="0" width="100%" height="100%">
+          <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <section class="column">
+                <div class="value">Total Repositories : <span>25</span></div>
+                <p>*Including private repositories </p>
+            </section>
+          </div>
+        </foreignObject>
+        <style>
+         .column {
+            display: flex;
+            flex-direction: column;
+            border-radius: 0.8em;
+            gap: 0.15em;
+            font-size: 1em;
+            font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
+            width: fit-content;
+          }
+          .value {
+            padding: 0.6em;
+            margin: 0;
+            font-weight: bold;
+            border: 0.5px solid rgb(48, 161, 78);
+            border-radius: 0.6em;
+            color: #0366d6;
+          }
+          span {
+            display: inline-block;
+            color : rgb(48, 161, 78)
+          }
+          p {
+            font-size: 0.35em;
+            color: #555;
+            margin: 0;
+            align-self: flex-end;
+            margin-right: 0.6em;
+          }
+        </style>
+</svg>
+  
