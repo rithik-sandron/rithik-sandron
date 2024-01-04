@@ -9,6 +9,8 @@
 - 👨‍💻 My gists: https://gist.github.com/rithik-sandron
 <br />
 
+![stats](count.svg) 
+
 ![stats](sample.svg) 
 
 
