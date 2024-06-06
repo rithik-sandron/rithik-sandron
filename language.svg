@@ -1,86 +1,130 @@
-<svg height="232"
+<svg height="162"
         xmlns="http://www.w3.org/2000/svg">
         <foreignObject x="0" y="0" width="100%" height="100%">
           <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink">
             <section class="column">
-              <h3>Language activity</h3>
+              <h3>Languages</h3>
+               <div class="lang-line">
+                <div class='lang JavaScript' style="width: 159.89999999999998px"/><div class='lang CSS' style="width: 51.300000000000004px"/><div class='lang HTML' style="width: 3.3000000000000003px"/><div class='lang Java' style="width: 33.3px"/><div class='lang Shell' style="width: 1.5px"/><div class='lang Python' style="width: 1.5px"/><div class='lang Rust' style="width: 5.1px"/><div class='lang PHP' style="width: 41.7px"/><div class='lang TypeScript' style="width: 2.4000000000000004px"/>
+              </div>
               <div class="chart"><div class="entry">
-                  <span class="name">JavaScript</span>
-                  <div class="bar" style="width: 53.27209472214789%"></div>
-                  <span class="value">53.3%</span>
+                <div class="bar JavaScript"></div>
+                  <span class="value">JavaScript</span>
                 </div><div class="entry">
-                  <span class="name">CSS</span>
-                  <div class="bar" style="width: 17.95164078491505%"></div>
-                  <span class="value">18.0%</span>
+                <div class="bar CSS"></div>
+                  <span class="value">CSS</span>
                 </div><div class="entry">
-                  <span class="name">HTML</span>
-                  <div class="bar" style="width: 3.3604085145779234%"></div>
-                  <span class="value">3.4%</span>
+                <div class="bar HTML"></div>
+                  <span class="value">HTML</span>
                 </div><div class="entry">
-                  <span class="name">Java</span>
-                  <div class="bar" style="width: 3.195642896923845%"></div>
-                  <span class="value">3.2%</span>
+                <div class="bar Java"></div>
+                  <span class="value">Java</span>
                 </div><div class="entry">
-                  <span class="name">Shell</span>
-                  <div class="bar" style="width: 0.7365992318652943%"></div>
-                  <span class="value">0.7%</span>
+                <div class="bar Shell"></div>
+                  <span class="value">Shell</span>
                 </div><div class="entry">
-                  <span class="name">Python</span>
-                  <div class="bar" style="width: 0.6758428144687069%"></div>
-                  <span class="value">0.7%</span>
+                <div class="bar Python"></div>
+                  <span class="value">Python</span>
                 </div><div class="entry">
-                  <span class="name">PHP</span>
-                  <div class="bar" style="width: 19.959785038008924%"></div>
-                  <span class="value">20.0%</span>
+                <div class="bar Rust"></div>
+                  <span class="value">Rust</span>
                 </div><div class="entry">
-                  <span class="name">TypeScript</span>
-                  <div class="bar" style="width: 0.8479859970923714%"></div>
-                  <span class="value">0.8%</span>
+                <div class="bar PHP"></div>
+                  <span class="value">PHP</span>
+                </div><div class="entry">
+                <div class="bar TypeScript"></div>
+                  <span class="value">TypeScript</span>
                 </div></div>
             </section>
           </div>
         </foreignObject><style>
-          .column {
-            padding-top: 1em;
-            border-radius: 0.8em;
-            font-size: 0.85em;
-            font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
-          }
-
-          .chart {
-            display: block;
-          }
-
-          .name {
-            font-size: 0.84em;
-            color: rgb(102, 102, 102);
-          }
-
-          .entry {
-            display: flex;
-            gap: 0.6em;
-            margin-top: 0.74em;
-          }
-
-          .bar {
-            display: block;
-            height: 0.58em;
-            align-self: center;
-            border-radius: 1em;
-            background-color: rgb(48, 161, 78);
-          }
-
-          h3 {
-            font-size: 1.1em;
-            margin: 0;
-            color: #0366d6;
-          }
-
-          .value {
-            font-size: 0.7em;
-            align-self: center;
-            color: #666;
-          }
-        </style>
-        </svg>
-    
+.lang-line {
+display: flex;
+max-width: 300px
+width: 300px
+height: 2mm;
+border-radius: 1mm;
+}
+.lang {
+height: 2mm;
+}
+.column {
+padding: 6mm;
+background-color: #0A2847;
+width: fit-content;
+border-radius: 2mm;
+font-size: 0.85em;
+font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
+}
+.chart {
+display: flex;
+gap: 0.2mm 4mm;
+width: 300px;
+flex-wrap: wrap;
+}
+.entry {
+display: flex;
+gap: 1.6mm;
+margin-top: 0.74em;
+}
+.bar {
+display: block;
+height: 2.4mm;
+width: 2.4mm;
+align-self: center;
+border-radius: 50%;
+}
+.value {
+font-size: 2.4mm;
+align-self: center;
+color: #F6E9B2;
+}
+h3 {
+font-size: 4mm;
+margin: 0;
+margin-bottom: 4mm;
+color: #F6E9B2;
+}
+.ActionScript { background-color: #882B0F; }
+.Ada { background-color: #02f88c; }
+.Assembly { background-color: #6E4C13; }
+.ATS { background-color: #1ac620; }
+.C-Sharp { background-color: #178600; }
+.C { background-color: #555555; }
+.CoffeeScript { background-color: #244776; }
+.cpp { background-color: #f34b7d; }
+.CSS { background-color: #563d7c; }
+.Dart { background-color: #00B4AB; }
+.Diff { background-color: #88dddd; }
+.Elixir { background-color: #6e4a7e; }
+.Go { background-color: #375eab; }
+.Groovy { background-color: #e69f56; }
+.Haskell { background-color: #29b544; }
+.HTML { background-color: #e44b23; }
+.Java { background-color: #b07219; }
+.JavaScript { background-color: #f1e05a; }
+.Jupyter-Notebook { background-color: #DA5B0B; }
+.Makefile { background-color: #427819; }
+.Mask { background-color: #f97732; }
+.Matlab { background-color: #bb92ac; }
+.Metal { background-color: #8f14e9; }
+.Objective-C { background-color: #438eff; }
+.Objective-Cpp { background-color: #6866fb; }
+.Objective-J { background-color: #ff0c5a; }
+.Pascal { background-color: #b0ce4e; }
+.PHP { background-color: #4F5D95; }
+.Prolog { background-color: #74283c; }
+.Python { background-color: #3572A5; }
+.R { background-color: #198ce7; }
+.Ruby { background-color: #701516; }
+.Rust { background-color: #dea584; }
+.SAS { background-color: #B34936; }
+.Scala { background-color: #DC322F; }
+.Self { background-color: #0579aa; }
+.Shell { background-color: #89e051; }
+.Swift { background-color: #ffac45; }
+.TypeScript { background-color: #2b7489; }
+.Verilog { background-color: #b2b7f8; }
+.Visual-Basic { background-color: #945db7; }
+.Vue { background-color: #2c3e50; }
+</style></svg>
