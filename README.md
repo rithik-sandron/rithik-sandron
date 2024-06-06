@@ -5,4 +5,4 @@
 - 💭 **Blog** https://zro.earth
 - 👨‍💻 **Gists** https://gist.github.com/rithik-sandron
 
-![stats](sample.svg) 
+![stats](language.svg) 
