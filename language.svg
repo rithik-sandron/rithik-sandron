@@ -1,11 +1,11 @@
-<svg width="344px" height="288px"
+<svg width="344px" height="180px"
         xmlns="http://www.w3.org/2000/svg">
         <foreignObject x="0" y="0" width="100%" height="100%">
           <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink">
             <section class="column">
               <h3>Languages</h3>
                <div class="lang-line">
-                <div class='lang JavaScript' style="width: 71.1px"/><div class='lang CSS' style="width: 22.799999999999997px"/><div class='lang HTML' style="width: 2.7px"/><div class='lang Java' style="width: 32.400000000000006px"/><div class='lang Shell' style="width: 0.6000000000000001px"/><div class='lang Python' style="width: 0.6000000000000001px"/><div class='lang Dockerfile' style="width: 0.0px"/><div class='lang Kotlin' style="width: 147.3px"/><div class='lang Vue' style="width: 0.6000000000000001px"/><div class='lang Twig' style="width: 0.0px"/><div class='lang FreeMarker' style="width: 0.0px"/><div class='lang StringTemplate' style="width: 0.0px"/><div class='lang Mustache' style="width: 0.0px"/><div class='lang Rust' style="width: 2.4000000000000004px"/><div class='lang PHP' style="width: 18.6px"/><div class='lang TypeScript' style="width: 0.8999999999999999px"/>
+                <div class='lang JavaScript' style="width: 157.8px"/><div class='lang CSS' style="width: 51.0px"/><div class='lang HTML' style="width: 5.4px"/><div class='lang Java' style="width: 33.0px"/><div class='lang Shell' style="width: 1.5px"/><div class='lang Python' style="width: 1.5px"/><div class='lang Dockerfile' style="width: 0.0px"/><div class='lang Rust' style="width: 6.8999999999999995px"/><div class='lang PHP' style="width: 40.8px"/><div class='lang TypeScript' style="width: 2.4000000000000004px"/>
               </div>
               <div class="chart"><div class="entry">
                 <div class="bar JavaScript"></div>
@@ -28,24 +28,6 @@
                 </div><div class="entry">
                 <div class="bar Dockerfile"></div>
                   <span class="value">Dockerfile</span>
-                </div><div class="entry">
-                <div class="bar Kotlin"></div>
-                  <span class="value">Kotlin</span>
-                </div><div class="entry">
-                <div class="bar Vue"></div>
-                  <span class="value">Vue</span>
-                </div><div class="entry">
-                <div class="bar Twig"></div>
-                  <span class="value">Twig</span>
-                </div><div class="entry">
-                <div class="bar FreeMarker"></div>
-                  <span class="value">FreeMarker</span>
-                </div><div class="entry">
-                <div class="bar StringTemplate"></div>
-                  <span class="value">StringTemplate</span>
-                </div><div class="entry">
-                <div class="bar Mustache"></div>
-                  <span class="value">Mustache</span>
                 </div><div class="entry">
                 <div class="bar Rust"></div>
                   <span class="value">Rust</span>
