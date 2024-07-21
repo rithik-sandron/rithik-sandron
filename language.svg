@@ -5,7 +5,7 @@
             <section class="column">
               <h3>Languages</h3>
                <div class="lang-line">
-                <div class='lang JavaScript' style="width: 157.8px"/><div class='lang CSS' style="width: 51.0px"/><div class='lang HTML' style="width: 5.4px"/><div class='lang Java' style="width: 33.0px"/><div class='lang Shell' style="width: 1.5px"/><div class='lang Python' style="width: 1.5px"/><div class='lang Dockerfile' style="width: 0.0px"/><div class='lang Rust' style="width: 6.8999999999999995px"/><div class='lang PHP' style="width: 40.8px"/><div class='lang TypeScript' style="width: 2.4000000000000004px"/>
+                <div class='lang JavaScript' style="width: 156.60000000000002px"/><div class='lang CSS' style="width: 50.400000000000006px"/><div class='lang HTML' style="width: 7.5px"/><div class='lang Java' style="width: 32.7px"/><div class='lang Shell' style="width: 1.5px"/><div class='lang Python' style="width: 1.5px"/><div class='lang Dockerfile' style="width: 0.0px"/><div class='lang Rust' style="width: 6.6000000000000005px"/><div class='lang PHP' style="width: 40.5px"/><div class='lang TypeScript' style="width: 2.4000000000000004px"/>
               </div>
               <div class="chart"><div class="entry">
                 <div class="bar JavaScript"></div>
