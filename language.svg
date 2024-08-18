@@ -1,11 +1,11 @@
-<svg width="344px" height="180px"
+<svg width="344px" height="198px"
         xmlns="http://www.w3.org/2000/svg">
         <foreignObject x="0" y="0" width="100%" height="100%">
           <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink">
             <section class="column">
               <h3>Languages</h3>
                <div class="lang-line">
-                <div class='lang JavaScript' style="width: 156.89999999999998px"/><div class='lang CSS' style="width: 48.900000000000006px"/><div class='lang HTML' style="width: 10.2px"/><div class='lang Java' style="width: 31.799999999999997px"/><div class='lang Shell' style="width: 2.4000000000000004px"/><div class='lang Python' style="width: 1.5px"/><div class='lang Dockerfile' style="width: 0.0px"/><div class='lang Rust' style="width: 6.6000000000000005px"/><div class='lang PHP' style="width: 39.3px"/><div class='lang TypeScript' style="width: 2.4000000000000004px"/>
+                <div class='lang JavaScript' style="width: 154.8px"/><div class='lang CSS' style="width: 48.0px"/><div class='lang HTML' style="width: 10.2px"/><div class='lang Java' style="width: 31.5px"/><div class='lang Shell' style="width: 3.0px"/><div class='lang Python' style="width: 2.4000000000000004px"/><div class='lang Dockerfile' style="width: 0.0px"/><div class='lang Rust' style="width: 6.300000000000001px"/><div class='lang HCL' style="width: 2.7px"/><div class='lang PHP' style="width: 38.7px"/><div class='lang TypeScript' style="width: 2.4000000000000004px"/>
               </div>
               <div class="chart"><div class="entry">
                 <div class="bar JavaScript"></div>
@@ -31,6 +31,9 @@
                 </div><div class="entry">
                 <div class="bar Rust"></div>
                   <span class="value">Rust</span>
+                </div><div class="entry">
+                <div class="bar HCL"></div>
+                  <span class="value">HCL</span>
                 </div><div class="entry">
                 <div class="bar PHP"></div>
                   <span class="value">PHP</span>
